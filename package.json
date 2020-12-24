@@ -1,0 +1,20 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "Tests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramiro1287/tests.git"
+  },
+  "author": "Ramiro Castañon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramiro1287/tests/issues"
+  },
+  "homepage": "https://github.com/ramiro1287/tests#readme"
+}
